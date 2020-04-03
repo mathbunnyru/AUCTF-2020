@@ -1,0 +1,5 @@
+ssh challenges.auctf.com -p 30040 -l level1
+
+Password - aubie
+
+Use previous level flag to login to the next level
